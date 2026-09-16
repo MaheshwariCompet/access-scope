@@ -1,0 +1,6 @@
+@AccessScope_HostAddress = http://localhost:5019
+
+GET {{AccessScope_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
